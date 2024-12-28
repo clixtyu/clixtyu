@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">👋 Ngoding Dulu, Jagonya Belakangan!</h1>
 
-<!--
-**clixtyu/clixtyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <a href="https://clixtyu.github.io">
+      <img src="https://render.gitanimals.org/lines/clixtyu?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src=https://github-profile-trophy.vercel.app/?username=clixtyu&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Engineer 🚀 | Motorsport Enthusiast 🏎️ | Tech Enthusiast 💡</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-ESP32-blue?style=for-the-badge&logo=esp32" alt="ESP32" />
+  <img src="https://img.shields.io/badge/-FreeRTOS-blue?style=for-the-badge&logo=rtos" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-red?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge&logo=ai" alt="AI" />
+  <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript" alt="JS" />
+  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker" alt="Docker" />
+</p>
+
+---
